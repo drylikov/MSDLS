@@ -10,7 +10,8 @@ Microsoft Software Download Listing Script checks all the products in a specifie
 
 
 Usage
------
+
+-------------------------------------------
 ```
 usage: msdls.py [-h] --first FIRST --last LAST [--write WRITE] [--update UPDATE]
 
