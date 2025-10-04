@@ -20,4 +20,4 @@ options:
 
 License
 -------
-This project is licensed under the terms of GNU Affero General Public License Version 3.
+This project is licensed under the terms of MIT License .
